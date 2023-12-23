@@ -8,6 +8,8 @@
 (load "~/.config/doom/user/dired")
 (load "~/.config/doom/user/treemacs")
 (load "~/.config/doom/user/org")
+(load "~/.config/doom/user/subprograms")
+(load "~/.config/doom/theme.el")
 
 (load "~/.config/doom/user/programming/java")
 (load "~/.config/doom/user/programming/c")

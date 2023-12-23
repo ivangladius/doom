@@ -10,6 +10,8 @@
 (package! gradle-mode)
 (package! org-inline-pdf)
 (package! julia-repl)
+(package! almost-mono-themes)
+(package! evil-snipe :disable t)
 
 ;; To install SOME-PACKAGE from MELPA, ELPA or emacsmirror:
                                         ;(package! some-package)
