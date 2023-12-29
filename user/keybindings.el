@@ -5,6 +5,7 @@
 
 (evil-define-key 'normal 'global (kbd "M-)") #'spawn-terminal)
 
+
 (evil-define-key 'normal 'global (kbd "M-p") #'+default/search-buffer)
 
 (define-key doom-leader-map (kbd "p 2") 'projectile-dired)
@@ -29,6 +30,7 @@
 (define-key doom-leader-map (kbd "0") 'ace-window)
 
 (define-key doom-leader-map (kbd "k") 'kill-current-buffer)
+(define-key evil-normal-state-map (kbd "M-q") 'kill-current-buffer)
 (define-key doom-leader-map (kbd "j") 'dired-jump)
 
 (evil-define-key 'normal 'global (kbd "M-.") #'evil-scroll-down)

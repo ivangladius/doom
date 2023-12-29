@@ -5,7 +5,7 @@
       user-mail-address "john@doe.com")
 
 (setq doom-font (font-spec :family "JetBrains Mono" :size 14))
-(setq doom-theme 'almost-mono-cream)
+(setq doom-theme 'modus-vivendi)
 (setq display-line-numbers-type t)
 
 
