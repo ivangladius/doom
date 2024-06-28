@@ -14,6 +14,8 @@
 (load "~/.config/doom/user/programming/java")
 (load "~/.config/doom/user/programming/c")
 (load "~/.config/doom/user/programming/julia")
+(load "~/.config/doom/user/programming/common-lisp")
+(load "~/.config/doom/user/programming/babashka")
 
 
 
