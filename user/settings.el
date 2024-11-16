@@ -1,11 +1,11 @@
 ;;; user/settings.el -*- lexical-binding: t; -*-
 
 
-(setq user-full-name "John Doe"
-      user-mail-address "john@doe.com")
+(setq user-full-name "Maximilian Ivan Filipov"
+      user-mail-address "maximilian.filipov@proton.me")
 
-(setq doom-font (font-spec :family "JetBrains Mono" :size 18))
-(setq doom-theme 'doom-solarized-dark-high-contrast)
+(setq doom-font (font-spec :family "JetBrains Mono" :size 24))
+(setq doom-theme 'modus-vivendi)
 (setq display-line-numbers-type t)
 
 

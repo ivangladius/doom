@@ -3,4 +3,4 @@
 
 (defun spawn-terminal ()
   (interactive)
-  (call-process-shell-command "alacritty --title terminal&" nil 0))
+  (call-process-shell-command "xfce4-terminal --title terminal&" nil 0))
